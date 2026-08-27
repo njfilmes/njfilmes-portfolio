@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://njfilmes.com.br/sitemap.xml
