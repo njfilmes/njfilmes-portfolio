@@ -1,0 +1,23 @@
+{
+  "name": "NJFILMES — Vídeo, Fotografia e Drone",
+  "short_name": "NJFILMES",
+  "description": "Portfólio profissional de vídeo, fotografia e drone de Antonio Junior.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111518",
+  "theme_color": "#111518",
+  "icons": [
+    {
+      "src": "assets/logo-njfilmes-alpha.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/logo-njfilmes-alpha.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
